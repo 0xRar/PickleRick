@@ -31,7 +31,7 @@ Password: Wubbalubbadubdub
 ```
 ## Portal (LOGIN)
 ```
-Used gobuster dir to get the login
+Used gobuster dir to get the login page
 MACHINE_IP/portal.php
 ```
 
